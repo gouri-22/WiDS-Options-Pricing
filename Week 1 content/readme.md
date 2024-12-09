@@ -1,8 +1,8 @@
 # **Python Basics!**
 
-For all those looking to learn Python from scratch, you can begin with [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/intro_to_python.ipynb), while those of you who are already familiar with Python and are just looking to revise can go through [this notebook](https://github.com/Amish462004/Blackoptions-price/blob/main/Week%201-Content/Python_review.ipynb).  
+For all those looking to learn Python from scratch, you can begin with [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/intro_to_python.ipynb), while those of you who are already familiar with Python and are just looking to revise can go through [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/Python_review.ipynb).  
 
-For the first week we will be covering some basic topics:
+For the first week, we will be covering some basic topics:
 * [Getting Started](#getting-started)
 * [Introduction to Data Types and Data Structures in Python](#introduction-to-data-types-and-data-structures-in-python)
 * [Operators in Python](#operators-in-python)
@@ -16,10 +16,10 @@ For the first week we will be covering some basic topics:
 * [File Handling (Optional)](#file-handling-optional)
 * [Assignment 1](#assignment)
 
-Then we'll go through some data science libraries.
+Then, we'll go through some data science libraries.
 # Data Science Libraries!
 
-Now, we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
+Now, we will look at Applications of Python in Data Analysis fields and will cover various Python libraries used for this, namely :
 * [Numpy](#Numpy)
 * [Pandas](#Pandas)
 * [Matplotlib](#Matplotlib)
@@ -30,7 +30,7 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
 
 Let's get this party started!
 
-Python is the most diverse language with very varied applications in different fields such as Research, Machine Learning, Backend Web Development, Data Visualisation, Web Scraping and much more, and this is possible only because of the different libraries and frameworks available for Python.In subsequent weeks we will be covering some amazing applications of python.
+Python is the most diverse language with very varied applications in different fields such as Research, Machine Learning, Backend Web Development, Data Visualisation, Web Scraping and much more, and this is possible only because of the different libraries and frameworks available for Python.In subsequent weeks, we will be covering some amazing applications of Python.
 Let's get started!
 ## **Getting Started**
 
@@ -40,14 +40,14 @@ Visit this link for a detailed guide on installing and setting up Python - [Pyth
 
 ### **Introduction to Jupyter Notebooks**
 
-Jupyter notebook is a web based notebook environment which is widely used for interactive programming, that is, code execution combined with rich markdown text and much more. The Jupyter notebook runs a local Ipython kernel on your machine and launches in your web browser. These notebooks are also called as Ipython notebooks, and have a '.ipynb' extension instead of traditional '.py' extension for Python files. All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, it is important for you to get aquainted with Jupyter notebooks.
+Jupyter Notebook is a web-based notebook environment that is widely used for interactive programming, that is, code execution combined with rich markdown text and much more. The Jupyter Notebook runs a local Ipython kernel on your machine and launches in your web browser. These notebooks are also called Ipython notebooks and have a '.ipynb' extension instead of the traditional '.py' extension for Python files. All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, you need to get acquainted with Jupyter notebooks.
 
-Visit this link for installing and setting up a basic notebook - [Setting up Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/). The link also teaches you to write and execute a basic Python code in a Notebook cell.
+Visit this link to install and set up a basic notebook: [Setting up Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/). The link also teaches you to write and execute basic Python code in a Notebook cell.
 
 ### **Google Colab**
-Google Colab is a platform provided by Google, which runs a Jupyter notebook in the cloud. While it is a convenient way to get set up, there are some caveats you would like to know before it.
-The setup is platform agnostic i.e. all you need is a browser. The recommended way to get started is first logging in to Google. Sign in > Head to the home page for Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) > click on New Notebook.
-From this point, everything is basically the same as a Jupyter notebook.
+Google Colab is a platform provided by Google that runs a Jupyter notebook in the cloud. While it is a convenient way to get set up, there are some caveats you would like to know before it.
+The setup is platform agnostic, i.e., all you need is a browser. The recommended way to get started is to first log in to Google. Sign in > Head to the home page for Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) > click on New Notebook.
+From this point, everything is basically the same as a Jupyter Notebook.
 
 
 ### Instructions on downloading and using notebooks
@@ -63,9 +63,9 @@ From this point, everything is basically the same as a Jupyter notebook.
 ## **Introduction to Data Types and Data Structures in Python**
 Once you have set up the environment for writing your code, we now begin with coding in Python. Let's get started.
 
-Head over to this link - [Introduction to Python Data Types](https://www.learnpython.org/en/Welcome) and start with the topics in the 'Learn the Basics' sections one by one (till 'Basic String Operations'). These are official tutorials from the Python organisation which are well curated for beginners and contain an inbuilt Ipython shell for writing and executing your code there itself.
+Head over to this link - [Introduction to Python Data Types](https://www.learnpython.org/en/Welcome) and start with the topics in the 'Learn the Basics' sections one by one (till 'Basic String Operations'). These are official tutorials from the Python organization, which are well-curated for beginners and contain an inbuilt Ipython shell for writing and executing your code there.
 
-If you are not of the reading kind, checkout this [Youtube playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) for step-by-step tutorials on Python basics (Tutorials #1 - #11 except #6, #7, #9). But make sure that you are following alongside with the video, otherwise things won't make sense later in the course.
+If you are not of the reading kind, check out this [Youtube playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) for step-by-step tutorials on Python basics (Tutorials #1 - #11 except #6, #7, #9). But make sure that you are following alongside with the video, otherwise things won't make sense later in the course.
 
 You can also read these concepts from GeeksForGeeks. They explain each concept in good detail along with examples.
 
@@ -169,9 +169,9 @@ You can also go through [this video](https://www.youtube.com/watch?v=jQiUOV15IRI
 
 
 ## *File Handling (Optional)*
-Since we have covered a good number of topics , we are keeping File Handling as optional.Those who are interested in learning this can go through the article below.
+Since we have covered a good number of topics, we are keeping File Handling as optional. Those who are interested in learning this can go through the article below.
 
-Files are named locations on disk to store related information. They are used to permanently store data in a non-volatile memory (e.g. hard disk). Since Random Access Memory (RAM) is volatile (which loses its data when the computer is turned off), we use files for future use of the data by permanently storing them. When we want to read from or write to a file, we need to open it first. When we are done, it needs to be closed so that the resources that are tied with the file are freed.
+Files are named locations on the disk to store related information. They are used to permanently store data in non-volatile memory (e.g., hard disk). Since Random Access Memory (RAM) is volatile (which loses its data when the computer is turned off), we use files for future use of the data by permanently storing them. When we want to read from or write to a file, we need to open it first. When we are done, it needs to be closed so that the resources that are tied to the file are freed.
 
 Hence, in Python, a file operation takes place in the following order:
 
@@ -182,4 +182,4 @@ Hence, in Python, a file operation takes place in the following order:
 To read more about File Handling refer [this](https://www.geeksforgeeks.org/file-handling-python/)
 
 
-This brings us to the end of this week's material. By now you should  be familiar with the basics of python. You should have a good enough idea about concepts like data types, loops, operators, iterators, functions, modules and packages, classes in python. Do go through the assignment after finishing the reading material. It will give you a chance to apply these concepts and practice your skills. Next week we will learn to use python in the field of data analysis. 
+This brings us to the end of this week's material. By now, you should be familiar with the basics of Python. You should have a good enough idea about concepts like data types, loops, operators, iterators, functions, modules and packages, and classes in Python. Do go through the assignment after finishing the reading material. It will give you a chance to apply these concepts and practice your skills. Next week, we will learn to use Python in the field of data analysis. 
