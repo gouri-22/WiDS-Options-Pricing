@@ -28,7 +28,7 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
 
 
 
-Let's get this party started!
+Let's get started!
 
 Python is the most diverse language with very varied applications in different fields such as Research, Machine Learning, Backend Web Development, Data Visualisation, Web Scraping and much more, and this is possible only because of the different libraries and frameworks available for Python.In subsequent weeks, we will be covering some amazing applications of Python.
 Let's get started!
