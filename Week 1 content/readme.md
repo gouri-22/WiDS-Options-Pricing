@@ -1,6 +1,6 @@
 # **Python Basics!**
 
-For all those looking to learn Python from scratch, you can begin with [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/intro_to_python.ipynb) then move to , while those of you who are already familiar with Python and are just looking to revise can go through [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/Python_review.ipynb).  
+For all those looking to learn Python from scratch, you can begin with [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/intro_to_python.ipynb), then move to the specific libraries. At the same time, those of you who are already familiar with Python and are just looking to revise can go through [this notebook](https://github.com/gouri-22/WiDS-Options-Pricing/blob/main/Week%201%20content/Python_review.ipynb).  
 
 For the first week, we will be covering some basic topics:
 * [Getting Started](#getting-started)
