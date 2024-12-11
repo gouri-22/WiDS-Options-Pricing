@@ -5,5 +5,5 @@ To tackle this, we’ll use Deep Learning models like Multi-Layer Perceptrons (M
 
 By the end, you’ll get hands-on with data processing and learn how to build models that go beyond Black-Scholes, blending finance and AI for modern, flexible options pricing. This project is a great way to get practical experience and add something unique to your profile.
 
-Prerequisites
+# Prerequisites
 There are no hard prerequisites—just bring your enthusiasm and a willingness to dive in! We’ll provide the resources and tools; your curiosity and commitment will shape how much you gain from this experience. While not required, a basic familiarity with Python and Options Pricing would be a nice bonus.
