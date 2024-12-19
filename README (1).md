@@ -8,6 +8,7 @@ For installation you can refer [this](https://www.w3schools.com/python/matplotli
 Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword.
 
 ### Getting Started With Matplotlib
+Check out matplotlib tutorials by W3 schools or if you would prefer youtube video, check this out- (https://youtu.be/3Xc3CA655Y4?si=LHSzFhY_HSFzqG6t)
 
 Check this [notebook](https://github.com/Amish462004/Blackoptions-price/blob/main/Week%202%20Content/Matplotlib.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.
 
