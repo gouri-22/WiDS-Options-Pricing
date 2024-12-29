@@ -1,4 +1,4 @@
-The Week 3 material may seem quite descriptive and requires substantial. While it might seem challenging to master everything in just a week, the goal is to focus on understanding the basics, and that’s all you need to start building this options pricing model.
+The Week 3 material may seem quite descriptive and requires substantial practice. While it might seem challenging to master everything in just a week, the goal is to focus on understanding the basics, and that’s all you need to start building this options pricing model.
 
 Assuming you’re already familiar with logistic and linear regression, the next step is to understand neurons and neural networks. A great starting point is the 3Blue1Brown series, which makes these concepts easy to visualize.
 
